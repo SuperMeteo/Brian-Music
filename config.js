@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-    name: "FreeNode",
-    password: "youshallnotpass",
-    host: "lava.link",
-    port: 80,
-    secure: false
+    name: "DarrennNode",
+    password: "lavalink",
+    host: "lavalink.darrennathanael.com",
+    port: 443,
+    secure: true
     }
   ]
 }
